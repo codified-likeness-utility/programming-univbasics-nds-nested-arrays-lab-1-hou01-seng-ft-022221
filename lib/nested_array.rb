@@ -44,7 +44,7 @@ def matrix_lookup(matrix, row, column)
   # Return the matrix's content at that row and and column
   
   sorted_matrix[row[column]]
-  assembled_matrix[row[column]]
+  assembled_matrix[row[c]]
   
 end
 
